@@ -2,4 +2,9 @@ Welcome to all students!
 
 Dani you will smash VIBOT!
 
+<<<<<<< HEAD
 This is fantastic!!
+=======
+
+A-WE-S-OM-E
+>>>>>>> new_branch
